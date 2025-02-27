@@ -25,8 +25,6 @@ Zettelkasten/
 
 ### 1. Nota de Literatura (Referência)
 
-```md
-
 # LIT2023021501 Clean Code - Cap 3 - Funções
 
   
@@ -53,13 +51,7 @@ Fonte: Livro "Clean Code" de Robert C. Martin, Capítulo 3
 
 #livro #cleancode #boas-práticas #funções
 
-```
-
-  
-
 ### 2. Nota Permanente (Conceito)
-
-```md
 
 # 202302151045 Funções Puras
 
@@ -124,14 +116,8 @@ const somarAoTotal = (valor) => {
   
 
 #programação-funcional #javascript #conceito #boas-práticas
-
-```
-
   
-
 ### 3. Nota Permanente (Problema-Solução)
-
-```md
 
 # 202302151130 Evitando Mutação de Estado em React
 
@@ -199,13 +185,7 @@ Sempre crie novas referências ao invés de modificar as existentes.
 
 #react #imutabilidade #estado #solução-problema
 
-```
-
-  
-
 ### 4. Nota Índice (Mapa de Conteúdo)
-
-```md
 
 # MOC - Desenvolvimento Front-end
 
@@ -260,10 +240,6 @@ Este mapa de conteúdo conecta tópicos relacionados ao desenvolvimento front-en
   
 
 #moc #front-end #mapa-de-conteúdo
-
-```
-
-  
 
 ## Fluxo de Trabalho
 
