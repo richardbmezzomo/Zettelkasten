@@ -136,12 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Zettelkasten/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -162,7 +163,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c2b861cca2f44c92",
+  "active": "54d3eef9457fb99f",
   "lastOpenFiles": [
     "Zettelkasten/Tutorial Zettelkasten.md",
     "Zettelkasten/Untitled.md",
