@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f1affad44c02adf4",
+        "id": "a1e9f13fe2bd716d",
         "type": "tabs",
         "children": [
           {
-            "id": "f93a3b64a793e24f",
+            "id": "47fef82755d81d1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Inbox/Jogo da velha 2 Online.md",
+                "file": "Zettelkasten/Inbox/Desenvolvimento de Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jogo da velha 2 Online"
+              "title": "Desenvolvimento de Software"
             }
           }
         ]
@@ -169,10 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54d3eef9457fb99f",
+  "active": "47fef82755d81d1d",
   "lastOpenFiles": [
-    "Untitled",
     "Zettelkasten/Tutorial Zettelkasten.md",
+    "Zettelkasten/Inbox/Desenvolvimento de Software.md",
+    "BRAGs Documents/Optimization/Redução de Consulta SQL.md",
+    "BRAGs Documents/Optimization",
+    "Untitled",
+    "BRAGs Documents",
     "Zettelkasten/Inbox/Jogo da velha 2 Online.md",
     "Zettelkasten/Índices",
     "Zettelkasten/Projetos",
