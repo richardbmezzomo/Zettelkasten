@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a1e9f13fe2bd716d",
+        "id": "c72f1347c72d8f33",
         "type": "tabs",
         "children": [
           {
-            "id": "47fef82755d81d1d",
+            "id": "03fda050183e6ea2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Inbox/Desenvolvimento de Software.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Desenvolvimento de Software"
+              "title": "New tab"
             }
           }
         ]
@@ -169,20 +165,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47fef82755d81d1d",
+  "active": "54d3eef9457fb99f",
   "lastOpenFiles": [
-    "Zettelkasten/Tutorial Zettelkasten.md",
-    "Zettelkasten/Inbox/Desenvolvimento de Software.md",
+    "Inbox/Desenvolvimento de Software.md",
+    "Tutorial Zettelkasten.md",
     "BRAGs Documents/Optimization/Redução de Consulta SQL.md",
     "BRAGs Documents/Optimization",
     "Untitled",
     "BRAGs Documents",
-    "Zettelkasten/Inbox/Jogo da velha 2 Online.md",
-    "Zettelkasten/Índices",
-    "Zettelkasten/Projetos",
-    "Zettelkasten/Permanentes",
-    "Zettelkasten/Literatura",
-    "Zettelkasten/Inbox",
+    "Inbox/Jogo da velha 2 Online.md",
+    "Índices",
+    "Projetos",
+    "Permanentes",
+    "Literatura",
+    "Inbox",
     "LIT2023021501 Clean Code - Cap 3 - Funções.md",
     "Zettelkasten/Untitled.md",
     "Zettelkasten",
